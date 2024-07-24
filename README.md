@@ -1,2 +1,2 @@
 # Django_SchoolProject
-School project
+School project on text game
